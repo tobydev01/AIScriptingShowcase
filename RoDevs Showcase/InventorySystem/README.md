@@ -29,3 +29,31 @@ InventoryService:RemoveItem(player, "health_potion", 1)
 ```
 
 `AddItem` fills existing stacks first, then opens new stacks up to `InventoryConfig.MaxSlots`. Any quantity that cannot fit is returned as `remaining`.
+
+
+
+
+
+# AI-Assisted Roblox Development Workflow
+
+This project demonstrates an AI-assisted Roblox game development workflow using Cursor, Claude, and GPT-based coding agents.
+
+The goal of the workflow is to accelerate development of multiplayer Roblox systems by combining code generation, iterative debugging, architecture planning, and modular optimization.
+
+The AI pipeline is used for:
+
+* Lua scripting
+* datastore integration
+* modular system generation
+* bug fixing
+* code refactoring
+* documentation generation
+
+Example systems include:
+
+* inventory systems
+* economy systems
+* admin systems
+* NPC interaction systems
+
+This repository serves as a demonstration of AI-driven development workflows for Roblox projects and commissions.

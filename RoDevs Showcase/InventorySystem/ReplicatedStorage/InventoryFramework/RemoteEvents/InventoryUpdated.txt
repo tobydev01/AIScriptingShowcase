@@ -1,0 +1,2 @@
+Create a RemoteEvent named InventoryUpdated here.
+Server -> client payload: the full sanitized inventory table whenever slots change.

@@ -1,0 +1,4 @@
+Create a RemoteEvent named InventoryAction here.
+Client -> server payload examples:
+{ Action = "MoveSlot", SlotId = "slot-guid", ToIndex = 1 }
+{ Action = "UseItem", ItemId = "health_potion" }

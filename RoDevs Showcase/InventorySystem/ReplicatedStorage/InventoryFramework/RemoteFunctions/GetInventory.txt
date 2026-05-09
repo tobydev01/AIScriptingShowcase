@@ -1,0 +1,2 @@
+Create a RemoteFunction named GetInventory here.
+Client invokes it to fetch the current server-owned inventory snapshot.
